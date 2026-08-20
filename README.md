@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1220-count-vowels-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1220-count-vowels-permutation) |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
+| [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
 ## Minimax
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
