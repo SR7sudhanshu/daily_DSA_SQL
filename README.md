@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1321-restaurant-growth](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1789-primary-department-for-each-employee) |
