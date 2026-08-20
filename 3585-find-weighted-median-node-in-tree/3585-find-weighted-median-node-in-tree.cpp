@@ -1,6 +1,6 @@
 using ll = long long;
 class Solution {
-    int LOG;
+    int log;
     vector<int> h;
     vector<ll> cost;
     vector<vector<pair<int, int>>> adj;
@@ -10,7 +10,7 @@ class Solution {
         h[node] = d;
         cost[node] = c;
         up[node][0] = p;
-        for (int i = 1; i < LOG; i++) {
+        for (int i = 1; i < log; i++) {
             if (up[node][i - 1] != -1) {
                 up[node][i] = up[up[node][i - 1]][i - 1];
             } else {
@@ -26,15 +26,15 @@ class Solution {
         }
     }
 
-    int getLCA(int u, int v) {
+    int getlca(int u, int v) {
         if (h[u] < h[v]) swap(u, v);
-        for (int i = LOG - 1; i >= 0; --i) {
+        for (int i = log - 1; i >= 0; --i) {
             if (h[u] - (1 << i) >= h[v]) {
                 u = up[u][i];
             }
         }
         if (u == v) return u;
-        for (int i = LOG - 1; i >= 0; --i) {
+        for (int i = log - 1; i >= 0; --i) {
             if (up[u][i] != up[v][i]) {
                 u = up[u][i];
                 v = up[v][i];
@@ -45,7 +45,7 @@ class Solution {
 
 public:
     vector<int> findMedian(int n, vector<vector<int>>& edges, vector<vector<int>>& queries) {
-        LOG = 20;
+        log = 20;
         adj.assign(n, vector<pair<int, int>>());
         for (auto& e : edges) {
             adj[e[0]].push_back({e[1], e[2]});
@@ -54,7 +54,7 @@ public:
         
         h.assign(n, 0);
         cost.assign(n, 0);
-        up.assign(n, vector<int>(LOG, -1));
+        up.assign(n, vector<int>(log, -1));
         
         dfs(0, -1, 0, 0);
         
@@ -68,7 +68,7 @@ public:
                 continue;
             }
             
-            int lca = getLCA(u, v);
+            int lca = getlca(u, v);
             ll totaldist = cost[u] + cost[v] - 2LL * cost[lca];
             ll reqdist = (totaldist + 1) / 2;
             
@@ -76,7 +76,7 @@ public:
             
             if (updist >= reqdist) {
                 int curr = u;
-                for (int i = LOG - 1; i >= 0; --i) {
+                for (int i = log - 1; i >= 0; --i) {
                     int nxt = up[curr][i];
                     if (nxt != -1 && h[nxt] >= h[lca]) {
                         if (cost[u] - cost[nxt] < reqdist) {
@@ -88,7 +88,7 @@ public:
             } else {
                 ll targetdist = reqdist - cost[u] + cost[lca];
                 int curr = v;
-                for (int i = LOG - 1; i >= 0; --i) {
+                for (int i = log - 1; i >= 0; --i) {
                     int nxt = up[curr][i];
                     if (nxt != -1 && h[nxt] >= h[lca]) {
                         if (cost[nxt] - cost[lca] >= targetdist) {
