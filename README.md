@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
