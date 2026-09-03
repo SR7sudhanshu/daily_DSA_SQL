@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0585-investments-in-2016) |
 | [1321-restaurant-growth](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1341-movie-rating) |
