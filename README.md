@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
 | [1220-count-vowels-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1220-count-vowels-permutation) |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
