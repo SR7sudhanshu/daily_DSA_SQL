@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## String
 |  |
