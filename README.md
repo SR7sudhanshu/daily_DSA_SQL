@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1220-count-vowels-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1220-count-vowels-permutation) |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
