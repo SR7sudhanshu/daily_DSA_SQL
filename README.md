@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1220-count-vowels-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1220-count-vowels-permutation) |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
