@@ -1,6 +1,14 @@
 # Write your MySQL query statement below
-select e.employee_id, avg(case when d.department_id is null then e.department_id
-else d.department_id end) as department_id
-from Employee e left join Employee d
-on e.employee_id = d.employee_id and d.primary_flag = 'Y'
-group by e.employee_id
+select employee_id , department_id 
+from Employee 
+where primary_flag = 'Y'
+
+union 
+
+select employee_id, department_id 
+from Employee 
+where employee_id in (
+    select employee_id from Employee 
+    group by employee_id
+    having count(*) = 1
+);
