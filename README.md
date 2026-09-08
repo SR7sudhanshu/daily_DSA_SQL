@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -188,4 +190,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
+## Graph Theory
+|  |
+| ------- |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
+## Shortest Path
+|  |
+| ------- |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
+## Bitmask
+|  |
+| ------- |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 <!---LeetCode Topics End-->
