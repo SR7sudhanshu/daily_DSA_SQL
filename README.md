@@ -134,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Combinatorics
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
