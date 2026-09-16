@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3871-count-commas-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1220-count-vowels-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1220-count-vowels-permutation) |
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
