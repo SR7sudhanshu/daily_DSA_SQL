@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
