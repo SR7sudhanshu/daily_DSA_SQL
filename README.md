@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## Minimax
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## String
@@ -155,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Combinatorics
 |  |
 | ------- |
