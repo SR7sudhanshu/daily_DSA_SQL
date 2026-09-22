@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3524-find-x-value-of-array-i) |
 | [3871-count-commas-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3524-find-x-value-of-array-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3524-find-x-value-of-array-i) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3524-find-x-value-of-array-i) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
