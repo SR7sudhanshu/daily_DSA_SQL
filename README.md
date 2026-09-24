@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0132-palindrome-partitioning-ii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1220-count-vowels-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1220-count-vowels-permutation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Graph Theory
