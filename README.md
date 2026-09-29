@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3277-maximum-xor-score-subarray-queries) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3277-maximum-xor-score-subarray-queries) |
@@ -271,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Knapsack Problem
+|  |
+| ------- |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 <!---LeetCode Topics End-->
