@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3277-maximum-xor-score-subarray-queries) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
 ## Simulation
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
 ## Tree
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## Counting
 |  |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Indexed Tree
 |  |
 | ------- |
