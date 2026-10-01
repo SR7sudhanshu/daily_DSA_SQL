@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1075-project-employees-i) |
 | [1321-restaurant-growth](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1393-capital-gainloss) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1789-primary-department-for-each-employee) |
 ## Concurrency
