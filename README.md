@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## Minimax
