@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2801-count-stepping-numbers-in-range](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2801-count-stepping-numbers-in-range) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3277-maximum-xor-score-subarray-queries) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2801-count-stepping-numbers-in-range](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2801-count-stepping-numbers-in-range) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
