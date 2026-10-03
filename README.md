@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Sorting
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Indexed Tree
 |  |
