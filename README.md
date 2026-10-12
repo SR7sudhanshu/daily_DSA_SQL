@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
