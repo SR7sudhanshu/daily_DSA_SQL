@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3686-number-of-stable-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
 ## Simulation
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## Counting
