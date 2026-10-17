@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1987-number-of-unique-good-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2801-count-stepping-numbers-in-range](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2801-count-stepping-numbers-in-range) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
