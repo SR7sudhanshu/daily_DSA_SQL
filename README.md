@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3886-sum-of-sortable-integers) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3886-sum-of-sortable-integers) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 | [3971-maximum-total-value](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3971-maximum-total-value) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3886-sum-of-sortable-integers) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
 ## Counting
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
