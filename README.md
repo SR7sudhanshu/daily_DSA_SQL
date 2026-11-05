@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2412-minimum-money-required-before-transactions](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2412-minimum-money-required-before-transactions) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
