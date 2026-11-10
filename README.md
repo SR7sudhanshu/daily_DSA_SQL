@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2659-make-array-empty](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/2659-make-array-empty) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1383-maximum-performance-of-a-team) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3962-maximum-subarray-sum-after-at-most-k-swaps](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3962-maximum-subarray-sum-after-at-most-k-swaps) |
 ## Graph Theory
