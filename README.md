@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [4023-elevator-requests-ii](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4023-elevator-requests-ii) |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4108-minimum-cost-to-make-red-nodes-connected) |
 ## Minimax
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4108-minimum-cost-to-make-red-nodes-connected) |
 ## Segment Tree
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4108-minimum-cost-to-make-red-nodes-connected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/SR7sudhanshu/daily_DSA_SQL/tree/master/4108-minimum-cost-to-make-red-nodes-connected) |
 ## Combinatorics
 |  |
 | ------- |
